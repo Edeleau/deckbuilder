@@ -22,7 +22,7 @@ composer require --dev orm-fixtures
 # Initialiser le projet chez sois :
 - 1 
 ````
-composer update
+composer install
 ````
 - 2 
 ```` 
