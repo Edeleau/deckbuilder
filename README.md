@@ -1,5 +1,8 @@
 ## 25/05/2020 initialisation du projet du Deckbuilder Yu-Gi-Oh
 
+# Présentation du projet : 
+Le projet a pour but d'être un créateur de deck de carte Yu-Gi-Oh avec un bibliothèque évolutive . C'est a dire que si vous recherchez une carte qui n'est pas existante dans notre BDD (si la carte est nouvelle ou inexistante dans la BDD).La carte et toutes ses données y sont enregistré via une API.
+
 # Liste des étapes pour créer le symfony : 
 
 - squelette de symfony :
